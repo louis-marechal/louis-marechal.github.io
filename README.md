@@ -14,5 +14,7 @@ Editor in chief héberger pdf en externe puis linker
 #Test ouverture nouvelle fenêtre
 <a href="https://louis-marechal.github.io/BusinessReport-PowerBI.pdf" target="_blank">Voir le rapport PDF complet</a>
 
+#Lien vers app : https://france-salaires.streamlit.app
+
 ### Exemple de rapport Power BI
 [Télécharger mon rapport PDF complet](https://louis-marechal.github.io/BusinessReport-PowerBI.pdf)
