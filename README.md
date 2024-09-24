@@ -1,6 +1,8 @@
 # Data Analyst
 
-#### Technical skills : Python, etc
+### Technical skills : 
+#### Certifications : Python, SQL, Power BI, Machine Learning, Text Mining, Web Scraping
+#### Tools : Google Analytics, Streamlit, GitHub, Excel, Canva, Wordpress, Yoast, Search Console (SEO), MetaBusiness, Brevo
 
 ### Education
 [Physique](https://www.test.)
