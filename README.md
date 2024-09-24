@@ -11,14 +11,14 @@ Google Analytics, Streamlit, GitHub, Excel, Canva, Wordpress, Yoast, Search Cons
 <br />***<a href="https://france-salaires.streamlit.app/" target="_blank">Consulter l'application france-salaires.streamlit.app</a>***
 
 - Rédaction d’un rapport d’analyse et de visualisation de données sur les inégalités salariales en France, sur base du jeu de données de l'Insee (plus de 8 millions d'entrées) nettoyé et traité. Explication de chaque étape du projet, analyse des variables explicatives influençant le salaire moyen, visualisation par des graphiques, figures, tests statistiques, détail de la mise en oeuvre du machine learning sur notre problématique, analyse des Features importance et conclusion.
-<br />***<a href="https://louis-marechal.github.io/Rapport French Industry - Analyse socio economique et prediction du salaire.pdf" target="_blank">Consulter le rapport Blalalala</a>***
-Notre projet a permis d'identifier les principales variables influençant le salaire moyen à savoir :
-- le sexe (homme/femme)
+<br />***<a href="https://louis-marechal.github.io/French_industry.pdf" target="_blank">Consulter le rapport French Industry - Analyse comparative des données sur les salaires en France selon les déterminants géographiques et socio-économiques</a>***
+<br />Notre projet a permis d'identifier les principales variables influençant le salaire moyen à savoir :
+- le sexe : le salaire moyen est plus élevé chez les hommes que chez les femmes
 - le nombre d'entreprises implantées : plus le nombre est élevé, plus faible est le salaire
 - la taille des entreprises : les plus grosses entreprises tendent à offrir un salaire plus élevé
 - l'âge : le salaire évolue avec l'âge et les inégalités ont tendance à s'accentuer avec l'âge
 
-INSERER GRAPHIQUE
+![Graphique - Evolution du salaire avec l'âge](graph1.png)
 
 Nous avons également découvert une correspondance quasi-parfaite de la carte du salaire moyen avec celle de la densité de population (INSERER SCREENSHOT CARTES REDIM). intégrer chiffres ? Ces observations permettent de dresser un portrait général des inégalités en France, afin d'orienter la recherche, ou de cibler d'éventuelles politiques publiques sur certaines catégories de la population. Enfin, elles peuvent également s'avérer utile dans le cadre d'études de marché pour des entreprises souhaitant s'implanter dans un territoire, en offrant une clé d'analyse sur certains indicateurs pouvant influencer à la hausse ou à la baisse le salaire.
 
