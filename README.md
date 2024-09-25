@@ -1,14 +1,15 @@
 # Data Analyst
 
-### Compétences : 
-#### Certifications : 
-Python, SQL, Power BI, Machine Learning, Text Mining, Web Scraping
-#### Outils : 
-Google Analytics, Streamlit, GitHub, Excel, Canva, Wordpress, Yoast, Search Console (SEO), MetaBusiness, Brevo
+## Compétences : 
+#### Certifications : Python, SQL, Power BI, Machine Learning, Text Mining, Web Scraping
+#### Outils : Google Analytics, Streamlit, GitHub, Excel, Canva, Wordpress, Yoast, Search Console (SEO), MetaBusiness, Brevo
 
-### Projets :
-- Codage en Python d’une application de **Machine Learning** prédisant le salaire moyen selon des variables socio-économiques avec une fiabilité de 93% (r2) et une erreur moyenne de prédiction (MAE) de 0.4 (pour une variable cible oscillant entre 10 et 50, déployée sur **Streamlit** via **GitHub**. L'application est basée sur des jeux de données de l'Insee (au total plus de 8 millions d'entrée sur la population française) intégralement nettoyés et processés afin de permettre la mise en oeuvre d'un modèle de régression linéaire (Linear Regression). L'application mise en ligne permet un test du modèle de prédiction et présente les différentes étapes ayant abouti au modèle final (Data Visualization à l'aide d'outils tels que **Plotly**, **Seaborn** etc ; essais de différents modèles de Machine Learning et analyse des résultats, ...)
-<br />AJOUTER WIDGET ICI ***<a href="https://france-salaires.streamlit.app/" target="_blank">Consulter l'application france-salaires.streamlit.app</a>***
+## Projets :
+### Application de prédiction du salaire moyen selon des variables socio-économiques
+<br /><a href="https://france-salaires.streamlit.app/" target="_blank">Consulter l'application france-salaires.streamlit.app</a>
+<br />Codage en **Python** d’une application prédisant le salaire selon des variables socio-économiques (comme la densité de population, le sexe, l'âge, le nombre d'entreprises implantées, leur taille etc). La prédiction repose sur la mise en oeuvre d'un modèle de **Machine Learning** (régression linéaire) avec pour résultat une fiabilité de 93% (r2). Déployée sur **Streamlit** via **GitHub**, l'application propose un test du modèle prédictif et présente les principales étapes du projet, ainsi qu'une Data Visualization à l'aide d'outils tels que **Plotly** ou **Seaborn**.
+<br /> Source des données : quatre jeux de données bruts de l'Insee cumulant plus de 8 millions d'entrées sur la population française.
+
 
 - Réalisation d’un Dashboard et d’un rapport d’activité sur **PowerBI** sur base de données réelles anonymisées (environ 100.000 entrées) d'une entreprise de type Call center qui vend des produits marketing. Mise en place d'un modèle en étoile permettant une analyse approfondie, visuelle et interactive d'indicatifs financiers et de KPI, ainsi que la création de métriques de performance.
 <br />Note : le fichier ci-dessous est un export PDF mais le fichier .pbix permet d'afficher la version interactive du rapport dans Power BI.
@@ -36,3 +37,54 @@ Mines bla bla bla
 
 ### Expérience professionnelle
 Editor in chief
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Data Scientist
+
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+
+## Education
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+
+## Work Experience
+**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+
+**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
+## Projects
+### Data-Driven EEG Band Discovery with Decision Trees
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+
+Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
+### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+
+Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+
+![Bike Study](/assets/img/bike_study.jpeg)
