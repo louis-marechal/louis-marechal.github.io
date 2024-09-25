@@ -19,9 +19,9 @@
 ### Business Dashboard / Rapport Power BI
 <a href="https://louis-marechal.github.io/BusinessReport-PowerBI.pdf" target="_blank">Consulter le rapport au format PDF</a>
 <br />Création d’un rapport de visualisation de données sur **PowerBI**. Création de métriques de performance dans le logiciel, mise en place d'un modèle en étoile permettant une analyse approfondie et interactive d'indicatifs financiers et de KPI tels que : perfomance par date, par manager, par employé, par bureau, secteur etc.
-<br />NB : le fichier ci-dessus est un export PDF mais le fichier .pbix ci-dessous permet d'afficher la version interactive du rapport dans Power BI.
+<br />NB : le fichier ci-dessus est un export PDF mais le fichier .pbix disponible <a href="https://louis-marechal.github.io/BusinessReport.pbix" target="_blank" download>ici</a> permet d'afficher la version interactive du rapport dans Power BI.
 <br />*Source des données : exercice basé sur des données réelles anonymisées d'une entreprise de type Call center vendant des produits marketing, dataset comprenant 100.000 entrées*
-<br /><a href="https://louis-marechal.github.io/BusinessReport.pbix" target="_blank" download>Cliquer ici pour télécharger le fichier .pbix du rapport</a>
+
 
 
 <p align="center">
