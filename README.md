@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <img src="app-design.png" alt="Overview app" />
+  <img src="overview-rapport.png" alt="Overview rapport" />
 </p>
 
 
