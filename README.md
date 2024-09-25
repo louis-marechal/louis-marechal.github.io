@@ -10,8 +10,9 @@
 <br />Codage en **Python** d’une application prédisant le salaire net moyen selon des variables socio-économiques (comme la densité de population, le sexe, l'âge, le nombre d'entreprises implantées, leur taille etc). La prédiction repose sur la mise en oeuvre d'un modèle de **Machine Learning** (régression linéaire) avec pour résultat une fiabilité de 93% (r2). Déployée sur **Streamlit** via **GitHub**, l'application propose un test du modèle prédictif et présente les principales étapes du projet, ainsi qu'une Data Visualization à l'aide d'outils tels que **Plotly** ou **Seaborn**.  
 <br />*Source des données : quatre jeux de données bruts de l'Insee cumulant plus de 8 millions d'entrées sur la population française.*
 
+### Réalisation d’un Dashboard 
 
-- Réalisation d’un Dashboard et d’un rapport d’activité sur **PowerBI** sur base de données réelles anonymisées (environ 100.000 entrées) d'une entreprise de type Call center qui vend des produits marketing. Mise en place d'un modèle en étoile permettant une analyse approfondie, visuelle et interactive d'indicatifs financiers et de KPI, ainsi que la création de métriques de performance.
+et d’un rapport d’activité sur **PowerBI** sur base de données réelles anonymisées (environ 100.000 entrées) d'une entreprise de type Call center qui vend des produits marketing. Mise en place d'un modèle en étoile permettant une analyse approfondie, visuelle et interactive d'indicatifs financiers et de KPI, ainsi que la création de métriques de performance.
 <br />Note : le fichier ci-dessous est un export PDF mais le fichier .pbix permet d'afficher la version interactive du rapport dans Power BI.
 <br />AJOUTER WIDGET ICI ***<a href="https://louis-marechal.github.io/BusinessReport-PowerBI.pdf" target="_blank">Voir le rapport PDF</a>***
 <br /> AJOUTER WIDGET ICI***[Télécharger le fichier .pbix du rapport](https://louis-marechal.github.io/BusinessReport.pbix)***
