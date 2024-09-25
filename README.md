@@ -16,11 +16,21 @@
 </p>
 
 
-### Réalisation d’un Dashboard 
+### Business Dashboard / Rapport Power BI
+<a href="https://louis-marechal.github.io/BusinessReport-PowerBI.pdf" target="_blank">Consulter le rapport au format PDF</a>
+<br />Création d’un rapport de visualisation de données sur **PowerBI**. Création de métriques de performance dans le logiciel, mise en place d'un modèle en étoile permettant une analyse approfondie et interactive d'indicatifs financiers et de KPI tels que : perfomance par date, par manager, par employé, par bureau, secteur etc.
+<br />NB : le fichier ci-dessus est un export PDF mais le fichier .pbix ci-dessous permet d'afficher la version interactive du rapport dans Power BI.
+<br />*Source des données : exercice basé sur des données réelles anonymisées d'une entreprise de type Call center vendant des produits marketing, dataset comprenant 100.000 entrées*
+<br /><a href="https://louis-marechal.github.io/BusinessReport.pbix" target="_blank" download>Cliquer ici pour télécharger le fichier .pbix du rapport</a>
 
-et d’un rapport d’activité sur **PowerBI** sur base de données réelles anonymisées (environ 100.000 entrées) d'une entreprise de type Call center qui vend des produits marketing. Mise en place d'un modèle en étoile permettant une analyse approfondie, visuelle et interactive d'indicatifs financiers et de KPI, ainsi que la création de métriques de performance.
-<br />Note : le fichier ci-dessous est un export PDF mais le fichier .pbix permet d'afficher la version interactive du rapport dans Power BI.
-<br />AJOUTER WIDGET ICI ***<a href="https://louis-marechal.github.io/BusinessReport-PowerBI.pdf" target="_blank">Voir le rapport PDF</a>***
+
+<p align="center">
+  <img src="app-design.png" alt="Overview app" />
+</p>
+
+
+et 
+
 <br /> AJOUTER WIDGET ICI***[Télécharger le fichier .pbix du rapport](https://louis-marechal.github.io/BusinessReport.pbix)***
 ICI AFFICHER UNE IMAGE AVEC TROIS OU QUATRE MINIATURES du rapport 
 
