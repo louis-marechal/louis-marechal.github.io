@@ -11,7 +11,9 @@
 <br />*Source des données : 4 datasets bruts de l'Insee cumulant plus de 8 millions d'entrées sur la population française.*
 
 
-![Overview app](app-design.png)
+<p align="center">
+  <img src="app-design.png" alt="Overview app" />
+</p>
 
 
 ### Réalisation d’un Dashboard 
