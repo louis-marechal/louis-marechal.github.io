@@ -5,10 +5,10 @@
 #### Outils : Google Analytics, Streamlit, GitHub, Excel, Canva, Wordpress, Yoast, Search Console (SEO), MetaBusiness, Brevo
 
 ## Projets :
-### Application de prédiction du salaire moyen selon des variables socio-économiques
-<br /><a href="https://france-salaires.streamlit.app/" target="_blank">Consulter l'application france-salaires.streamlit.app</a>
-<br />Codage en **Python** d’une application prédisant le salaire selon des variables socio-économiques (comme la densité de population, le sexe, l'âge, le nombre d'entreprises implantées, leur taille etc). La prédiction repose sur la mise en oeuvre d'un modèle de **Machine Learning** (régression linéaire) avec pour résultat une fiabilité de 93% (r2). Déployée sur **Streamlit** via **GitHub**, l'application propose un test du modèle prédictif et présente les principales étapes du projet, ainsi qu'une Data Visualization à l'aide d'outils tels que **Plotly** ou **Seaborn**.
-<br /> Source des données : quatre jeux de données bruts de l'Insee cumulant plus de 8 millions d'entrées sur la population française.
+### Prédiction du salaire moyen (app) 
+<a href="https://france-salaires.streamlit.app/" target="_blank">Consulter l'application france-salaires.streamlit.app</a>  
+Codage en **Python** d’une application prédisant le salaire net moyen selon des variables socio-économiques (comme la densité de population, le sexe, l'âge, le nombre d'entreprises implantées, leur taille etc). La prédiction repose sur la mise en oeuvre d'un modèle de **Machine Learning** (régression linéaire) avec pour résultat une fiabilité de 93% (r2). Déployée sur **Streamlit** via **GitHub**, l'application propose un test du modèle prédictif et présente les principales étapes du projet, ainsi qu'une Data Visualization à l'aide d'outils tels que **Plotly** ou **Seaborn**.  
+*Source des données : quatre jeux de données bruts de l'Insee cumulant plus de 8 millions d'entrées sur la population française.*
 
 
 - Réalisation d’un Dashboard et d’un rapport d’activité sur **PowerBI** sur base de données réelles anonymisées (environ 100.000 entrées) d'une entreprise de type Call center qui vend des produits marketing. Mise en place d'un modèle en étoile permettant une analyse approfondie, visuelle et interactive d'indicatifs financiers et de KPI, ainsi que la création de métriques de performance.
