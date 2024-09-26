@@ -1,14 +1,14 @@
 # Data Analyst
 
 ## Compétences : 
-#### Certifications : Python, SQL, Power BI, Machine Learning, Text Mining, Web Scraping
-#### Outils : Google Analytics, Streamlit, GitHub, Excel, Canva, Wordpress, Yoast, Search Console (SEO), MetaBusiness, Brevo
+#### Certifications Mines-Paris PSL / DataScientest : Python, SQL, Power BI, Machine Learning, Scikit-learn, Pandas, Numpy, Seaborn, SciPy, Matplotlib, BeautifulSoup (Web Scraping), Text Mining
+#### Outils : Google Analytics, Streamlit, GitHub, Plotly, Excel, Canva, Wordpress, Yoast, Search Console (SEO), MetaBusiness, Brevo
 
 ## Projets :
 ### Prédiction du salaire moyen (app) 
 <a href="https://france-salaires.streamlit.app/" target="_blank">Consulter l'application france-salaires.streamlit.app</a>  
-<br />Codage en **Python** d’une application prédisant le salaire net moyen selon des variables socio-économiques (comme la densité de population, le sexe, l'âge, le nombre d'entreprises implantées, leur taille etc). La prédiction repose sur la mise en oeuvre d'un modèle de **Machine Learning** (régression linéaire) avec pour résultat une fiabilité de 93% (r2). Déployée sur **Streamlit** via **GitHub**, l'application propose un test du modèle prédictif et présente les principales étapes du projet, ainsi qu'une Data Visualization à l'aide d'outils tels que **Plotly** ou **Seaborn**.  
-<br />*Source des données : 4 datasets bruts de l'Insee cumulant plus de 8 millions d'entrées sur la population française.*
+<br />Codage en **Python** d’une application prédisant le salaire net moyen selon des variables socio-économiques (comme la densité de population, le sexe, l'âge, le nombre d'entreprises implantées, leur taille etc). Après nettoyage et preprocessing des datasets avec Python (principalement **Pandas**), mise en oeuvre d'un modèle prédictif de **Machine Learning** (régression linéaire) avec pour résultat une fiabilité de 93% (r2). Déployée sur **Streamlit** via **GitHub**, l'application propose un test du modèle de prédiction et présente les principales étapes du projet, ainsi qu'une Data Visualization à l'aide d'outils tels que **Plotly** ou **Seaborn**. Projet validé par jury dans le cadre de ma formation DataScientest certifiée Mines-PSL.  
+<br />*Source des données : 4 datasets de l'Insee sur la population française, 8 millions d’entrées X 61 variables*
 
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 ### Business Dashboard / Rapport Power BI
 <a href="https://louis-marechal.github.io/BusinessReport-PowerBI.pdf" target="_blank">Consulter le rapport au format PDF</a>
-<br />Création d’un rapport de visualisation de données sur **PowerBI**. Création de métriques de performance dans le logiciel, mise en place d'un modèle en étoile permettant une analyse approfondie et interactive d'indicatifs financiers et de KPI tels que : perfomance par date, par manager, par employé, par bureau, secteur etc.
+<br />Création d’un rapport de visualisation de données sur **PowerBI**. Création de métriques de performance dans le logiciel, mise en place d'un modèle en étoile permettant une analyse approfondie et interactive d'indicatifs financiers et de KPI tels que : perfomance par date, par manager, par employé, par bureau, secteur etc. Exercice validé dans le cadre de ma formation DataScientest certifiée Mines-PSL. 
 <br />NB : le fichier ci-dessus est un export PDF mais le fichier .pbix disponible <a href="https://louis-marechal.github.io/BusinessReport.pbix" target="_blank" download>ici</a> permet d'afficher la version interactive du rapport dans Power BI.
-<br />*Source des données : exercice basé sur des données réelles anonymisées d'une entreprise de type Call center vendant des produits marketing, dataset comprenant 100.000 entrées*
+<br />*Source des données : données réelles anonymisées d'une entreprise de type Call center vendant des produits marketing, 6 datasets, 100 000 entrées X 32 variables*
 
 
 
