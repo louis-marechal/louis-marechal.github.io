@@ -7,7 +7,7 @@
 ## Projets :
 ### Prédiction du salaire moyen (app) 
 <a href="https://france-salaires.streamlit.app/" target="_blank">Consulter l'application france-salaires.streamlit.app</a>  
-<br />Codage en **Python** d’une application prédisant le salaire net moyen selon des variables socio-économiques (comme la densité de population, le sexe, l'âge, le nombre d'entreprises implantées, leur taille etc). Après nettoyage et preprocessing des datasets avec Python (principalement **Pandas**), mise en oeuvre d'un modèle prédictif de **Machine Learning** (régression linéaire) avec pour résultat une fiabilité de 93% (r2). Déployée sur **Streamlit** via **GitHub**, l'application propose un test du modèle de prédiction et présente les principales étapes du projet, ainsi qu'une Data Visualization à l'aide d'outils tels que **Plotly** ou **Seaborn**. Projet validé par jury dans le cadre de ma formation DataScientest certifiée Mines-PSL.  
+<br />Codage en **Python** d’une application prédisant le salaire net moyen selon des variables socio-économiques (comme la densité de population, le sexe, l'âge, le nombre d'entreprises implantées, leur taille etc). Après nettoyage et preprocessing des datasets avec Python (principalement **Pandas**), mise en oeuvre d'un modèle prédictif de **Machine Learning** (régression linéaire) avec **Scikit-learn** - fiabilité de 93% (r2). Déployée sur **Streamlit** via **GitHub**, l'application propose un test du modèle de prédiction et présente les principales étapes du projet, ainsi qu'une Data Visualization à l'aide d'outils tels que **Plotly** ou **Seaborn**. Projet validé par jury dans le cadre de ma formation DataScientest certifiée Mines Paris-PSL.  
 <br />*Source des données : 4 datasets de l'Insee sur la population française, 8 millions d’entrées X 61 variables*
 
 
@@ -19,9 +19,7 @@
 ### Business Dashboard / Rapport Power BI
 <a href="https://louis-marechal.github.io/BusinessReport-PowerBI.pdf" target="_blank">Consulter le rapport au format PDF</a>
 <br />
-<br />Création d’un rapport de visualisation de données sur **PowerBI**. Création de métriques de performance dans le logiciel, mise en place d'un modèle en étoile permettant une analyse approfondie et interactive d'indicatifs financiers et de KPI tels que : perfomance par date, par manager, par employé, par bureau, secteur etc. Exercice validé dans le cadre de ma formation DataScientest certifiée Mines-PSL. 
-
-NB : le fichier ci-dessus est un export PDF mais le fichier .pbix disponible <a href="https://louis-marechal.github.io/BusinessReport.pbix" target="_blank" download>ici</a> permet d'afficher la version interactive du rapport dans Power BI.
+<br />Création d’un rapport de visualisation de données sur **PowerBI**. Création de métriques de performance dans le logiciel, mise en place d'un modèle en étoile permettant une analyse approfondie et interactive d'indicatifs financiers et de KPI tels que : perfomance par date, par manager, par employé, par bureau, secteur etc. Exercice validé dans le cadre de ma formation DataScientest certifiée Mines Paris-PSL. NB : le fichier ci-dessus est un export PDF mais le fichier .pbix disponible <a href="https://louis-marechal.github.io/BusinessReport.pbix" target="_blank" download>ici</a> permet d'afficher la version interactive du rapport dans Power BI.
 
 *Source des données : données réelles anonymisées d'une entreprise de type Call center vendant des produits marketing, 6 datasets, 100 000 entrées X 32 variables*
 
@@ -32,25 +30,17 @@ NB : le fichier ci-dessus est un export PDF mais le fichier .pbix disponible <a 
 </p>
 
 
-### Rapport
+### Rapport d'analyse de donnés : inégalités salariales
+
+<a href="https://louis-marechal.github.io/French_industry.pdf" target="_blank">Consulter le rapport French Industry - Analyse comparative des données sur les salaires en France selon les déterminants géographiques et socio-économiques</a>
+<br />
+<br />Projet validant la formation DataScientest certifiée Mines-PSL (300 heures), visant à identifier les catégories de population concernées par les inégalités salariales en France et à définir les variables impactant le salaire moyen. Nettoyage et traitement de données en utilisant **Python**, **Pandas** et **Numpy**, visualisation de données avec **Matplotlib** et **Seaborn**, création de cartes géographiques de données avec **Plotly**, instanciation de modèles de **Machine Learning** avec **Scikit-learn**, représentation graphique des résultats et analyse des feature importance, réalisation de tests statistiques. Une corrélation a été établie et confirmée par un modèle de régression linéaire (r2 de 93%) entre le salaire et : le sexe, l'âge, le nombre d'entreprises implantées dans un territoire et leur taille. En outre, une correspondance quasi-parfaite a été établie entre la carte du salaire moyen et celle de la densité de population, les deux variables semblant suivre la même distribution géographique. Ces observations peuvent notamment être utilisées pour cibler la mise en oeuvre de différentes politiques.
 
 
-<br /> AJOUTER WIDGET ICI***[Télécharger le fichier .pbix du rapport](https://louis-marechal.github.io/BusinessReport.pbix)***
-ICI AFFICHER UNE IMAGE AVEC TROIS OU QUATRE MINIATURES du rapport 
+*Source des données : 4 datasets de l'Insee sur la population française, 8 millions d’entrées X 61 variables*
 
-- Rédaction d’un rapport d’analyse et de visualisation de données sur les inégalités salariales en France, sur base du jeu de données de l'Insee (plus de 8 millions d'entrées) nettoyé et traité. Explication de chaque étape du projet, analyse des variables explicatives influençant le salaire moyen, visualisation par des graphiques, figures, tests statistiques, détail de la mise en oeuvre du machine learning sur notre problématique, analyse des Features importance et conclusion.
-<br />AJOUTER WIDGET ICI ***<a href="https://louis-marechal.github.io/French_industry.pdf" target="_blank">Consulter le rapport French Industry - Analyse comparative des données sur les salaires en France selon les déterminants géographiques et socio-économiques</a>***
-<br />Notre projet a permis d'identifier les principales variables influençant le salaire moyen, et de vérifier la nature des corrélations par le machine learning. Parmi nos observations, nous avons établi une correspondance quasi-parfaite de la carte du salaire moyen avec celle de la densité de population.
 
 ![Cartes du salaire et de la population](graph2.png)
-
-Parmi les autres variables identifiées, on peut citer : 
-<br />-le sexe : le salaire moyen est plus élevé chez les hommes que chez les femmes
-<br />-le nombre d'entreprises implantées : plus le nombre est élevé, plus faible est le salaire
-<br />-la taille des entreprises : les plus grosses entreprises tendent à offrir un salaire plus élevé
-<br />-l'âge : le salaire évolue avec l'âge et les inégalités ont tendance à s'accentuer avec l'âge
-
-Nos observations permettent de dresser un portrait général des inégalités en France, afin d'orienter la recherche, ou de cibler d'éventuelles politiques publiques sur certaines catégories de la population. Enfin, elles peuvent également s'avérer utile dans le cadre d'études de marché pour des entreprises souhaitant s'implanter dans un territoire, en offrant une clé d'analyse sur certains indicateurs pouvant influencer à la hausse ou à la baisse le salaire.
 
 
 ### Formation
