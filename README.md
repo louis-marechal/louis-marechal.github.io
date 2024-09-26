@@ -55,11 +55,11 @@ Outils : Google Analytics, Streamlit, GitHub, Plotly, Excel, Canva, Wordpress, Y
 <br />
 
 
-**Senza | Formation Webmarketing, SEO, Social Media (_2023_)**
+**Senza, Formation Webmarketing, SEO, Social Media (_2023_)**
 
-**Université de Louvain | BAC+5 Sciences politiques (_2015_)**			        		
+**Université de Louvain, BAC+5 Sciences politiques (_2015_)**			        		
 
-**Université de Namur | BAC+3 Anglais / Néerlandais (_2012_)**
+**Université de Namur, BAC+3 Anglais / Néerlandais (_2012_)**
 
 ## Expérience professionnelle
 **Rédacteur en chef digital @ RT France (_2020-2023_)**
