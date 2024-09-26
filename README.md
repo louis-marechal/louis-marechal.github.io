@@ -54,7 +54,9 @@ Outils : Google Analytics, Streamlit, GitHub, Plotly, Excel, Canva, Wordpress, Y
 - *Big Data : **SQL***
 
 **Senza | Formation Webmarketing, SEO, Social Media (_2023_)**
+
 **Université de Louvain | BAC+5 Sciences politiques (_2015_)**			        		
+
 **Université de Namur | BAC+3 Anglais / Néerlandais (_2012_)**
 
 ## Expérience professionnelle
