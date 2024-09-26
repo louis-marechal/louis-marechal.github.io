@@ -43,17 +43,18 @@ Outils : Google Analytics, Streamlit, GitHub, Plotly, Excel, Canva, Wordpress, Y
 ![Cartes du salaire et de la population](graph2.png)
 
 ## Formation
-- Mines Paris - PSL / DataScientest | RNCP Data Analyst (_2024_)
+**Mines Paris - PSL / DataScientest | RNCP Data Analyst (_2024_)**
 <br />300 heures dont 80 heures de projet :
-*<br />Programmation **Python***
-*<br />Data Visualization : **Plotly, Matplotlib, Seaborn***
-*<br />Machine Learning : **Scikit-learn***
-*<br />Analyse de données*
-*<br />Extraction de données : Text Mining, WebScraping*
-*<br />Business Intelligence : **Power BI***
-*<br />Big Data : **SQL***     		
-- Université de Louvain | BAC+5 Sciences politiques (_2015_)	 			        		
-- Université de Namur | BAC+3 Anglais / Néerlandais (_2012_)
+*- Programmation **Python***
+*- Data Visualization : **Plotly, Matplotlib, Seaborn***
+*- Machine Learning : **Scikit-learn***
+*- Analyse de données*
+*- Extraction de données : Text Mining, WebScraping*
+*- Business Intelligence : **Power BI***
+*- Big Data : **SQL***     		
+**Senza | Formation Webmarketing, SEO, Social Media (_2023_)**
+**Université de Louvain | BAC+5 Sciences politiques (_2015_)**			        		
+**Université de Namur | BAC+3 Anglais / Néerlandais (_2012_)**
 
 ## Expérience professionnelle
 Editor in chief
