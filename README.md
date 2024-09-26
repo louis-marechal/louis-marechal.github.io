@@ -51,10 +51,14 @@ Outils : Google Analytics, Streamlit, GitHub, Plotly, Excel, Canva, Wordpress, Y
 - *Analyse de données*
 - *Extraction de données : Text Mining, WebScraping*
 - *Business Intelligence : **Power BI***
-- *Big Data : **SQL***     		
-<br />**Senza | Formation Webmarketing, SEO, Social Media (_2023_)**
-<br />**Université de Louvain | BAC+5 Sciences politiques (_2015_)**			        		
-<br />**Université de Namur | BAC+3 Anglais / Néerlandais (_2012_)**
+- *Big Data : **SQL***
+
+
+**Senza | Formation Webmarketing, SEO, Social Media (_2023_)**
+
+**Université de Louvain | BAC+5 Sciences politiques (_2015_)**			        		
+
+**Université de Namur | BAC+3 Anglais / Néerlandais (_2012_)**
 
 ## Expérience professionnelle
 Editor in chief
