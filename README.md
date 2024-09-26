@@ -1,8 +1,8 @@
 # Data Analyst
 
 ## Compétences : 
-#### Certifications Mines-Paris PSL / DataScientest : Python, SQL, Power BI, Machine Learning, Scikit-learn, Pandas, Numpy, Seaborn, SciPy, Matplotlib, BeautifulSoup (Web Scraping), Text Mining
-#### Outils : Google Analytics, Streamlit, GitHub, Plotly, Excel, Canva, Wordpress, Yoast, Search Console (SEO), MetaBusiness, Brevo
+#### <a href="https://www.linkedin.com/in/marechal-louis/details/certifications/" target="_blank">Certifications</a> Mines-Paris PSL / DataScientest : Python, SQL, Power BI, Machine Learning, Scikit-learn, Pandas, Numpy, Seaborn, SciPy, Matplotlib, BeautifulSoup (Web Scraping), Text Mining
+Outils : Google Analytics, Streamlit, GitHub, Plotly, Excel, Canva, Wordpress, Yoast, Search Console (SEO), MetaBusiness, Brevo
 
 ## Projets :
 ### Prédiction du salaire moyen (app) 
@@ -34,7 +34,7 @@
 
 <a href="https://louis-marechal.github.io/French_industry.pdf" target="_blank">Consulter le rapport French Industry - Analyse comparative des données sur les salaires en France selon les déterminants géographiques et socio-économiques</a>
 <br />
-<br />Projet validant la formation DataScientest certifiée Mines-PSL (300 heures), visant à identifier les catégories de population concernées par les inégalités salariales en France et à définir les variables impactant le salaire moyen. Nettoyage et traitement de données en utilisant **Python**, **Pandas** et **Numpy**, visualisation de données avec **Matplotlib** et **Seaborn**, création de cartes géographiques de données avec **Plotly**, instanciation de modèles de **Machine Learning** avec **Scikit-learn**, représentation graphique des résultats et analyse des feature importance, réalisation de tests statistiques. Une corrélation a été établie et confirmée par un modèle de régression linéaire (r2 de 93%) entre le salaire et : le sexe, l'âge, le nombre d'entreprises implantées dans un territoire et leur taille. En outre, une correspondance quasi-parfaite a été établie entre la carte du salaire moyen et celle de la densité de population, les deux variables semblant suivre la même distribution géographique. Ces observations peuvent notamment être utilisées pour cibler la mise en oeuvre de différentes politiques.
+<br />Projet validant la formation DataScientest certifiée Mines-PSL (300 heures), visant à identifier les catégories de population concernées par les inégalités salariales en France et à définir les variables impactant le salaire moyen. Nettoyage et traitement de données en utilisant **Python**, **Pandas** et **Numpy**, visualisation de données avec **Matplotlib** et **Seaborn**, création de cartes géographiques de données avec **Plotly**, instanciation de modèles de **Machine Learning** avec **Scikit-learn**, représentation graphique des résultats et analyse des feature importance, réalisation de tests statistiques. Une corrélation a été établie et confirmée par un modèle de régression linéaire (r2 de 93%) entre le salaire moyen et : le sexe, l'âge, le nombre d'entreprises implantées dans un territoire et leur taille. En outre, une correspondance quasi-parfaite a été établie entre la carte du salaire moyen et celle de la densité de population, les deux variables semblant suivre la même distribution géographique. Ces observations peuvent notamment être utilisées pour cibler la mise en oeuvre de différentes politiques.
 
 
 *Source des données : 4 datasets de l'Insee sur la population française, 8 millions d’entrées X 61 variables*
