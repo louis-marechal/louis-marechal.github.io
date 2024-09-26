@@ -52,7 +52,7 @@ Outils : Google Analytics, Streamlit, GitHub, Plotly, Excel, Canva, Wordpress, Y
 - *Extraction de données : Text Mining, WebScraping*
 - *Business Intelligence : **Power BI***
 - *Big Data : **SQL***
-
+#
 **Senza | Formation Webmarketing, SEO, Social Media (_2023_)**
 
 **Université de Louvain | BAC+5 Sciences politiques (_2015_)**			        		
