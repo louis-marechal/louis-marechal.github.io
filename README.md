@@ -61,18 +61,32 @@ Outils : Google Analytics, Streamlit, GitHub, Plotly, Excel, Canva, Wordpress, Y
 **Université de Namur | BAC+3 Anglais / Néerlandais (_2012_)**
 
 ## Expérience professionnelle
-Editor in chief
+**Rédacteur en chef digital @ RT France (_2020-2023_)**
+- *Management de 20 journalistes*
+- *Analyse quotidienne des données via Google Analytics, orientation stratégique par la data*
+<br /> Exemples :
+<br />Identification des pics horaires de fréquentation = augmentation de la publication ciblée
+<br />Classement utilisateurs par zone géographique = développement d’une rubrique Afrique
+<br />Analyse des sources de trafic = intensification activité FB, création de formats innovants sur YT Community
+- ***Résultats***
+<br />2 millions/mois utilisateurs uniques site web en moyenne
+<br />1,15 million abonnés YouTube (+ 92% entre 2020 et 2023)
 
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+**Chef d'édition web, Rédacteur @ RT France (_2015-2020_)**
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+
+## A propos de moi
+
+Doté de 7 ans d’expérience professionnelle comme journaliste, le poste de rédacteur en chef digital m’a amené à privilégier une approche basée sur l’analyse des données, avec des résultats probants. Entreprenant une reconversion professionnelle, j'ai acquis les compétences techniques nécéssaires via une formation de 300 heures de DataScientest certifiée par l’Ecole des Mines Paris - PSL, qui m'a amené à mettre en oeuvre différents projets de data analyse. En quête d’un nouveau challenge et m’adaptant facilement à tout secteur d’activité,  j’envisage mon avenir en tant que Data Analyst. N'hésitez pas à me contacter pour tout projet professionnel !
+
+
+## Contact
+
+Mail : [marechal-louis@hotmail.com](mailto:marechal-louis@hotmail.com)
+
+Téléphone : 06 41 97 33 55
+
 
 
 
