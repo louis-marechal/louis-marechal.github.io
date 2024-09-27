@@ -79,7 +79,7 @@ Outils : Google Analytics, Streamlit, GitHub, Plotly, Excel, Canva, Wordpress, Y
 
 ## A propos de moi
 
-Doté de 7 ans d’expérience professionnelle comme journaliste, le poste de rédacteur en chef digital m’a amené à privilégier une approche basée sur l’analyse des données, avec des résultats probants. Entreprenant une reconversion professionnelle, j'ai acquis les compétences techniques nécéssaires via une formation de 300 heures de DataScientest certifiée par l’Ecole des Mines Paris - PSL, qui m'a amené à mettre en oeuvre différents projets de data analyse. En quête d’un nouveau challenge et m’adaptant facilement à tout secteur d’activité,  j’envisage mon avenir en tant que Data Analyst. N'hésitez pas à me contacter pour tout projet professionnel !
+Doté de 7 ans d’expérience professionnelle comme journaliste, le poste de rédacteur en chef digital m’a amené à privilégier une approche basée sur l’analyse des données, avec des résultats probants. Entreprenant une reconversion professionnelle, j'ai acquis les compétences techniques nécéssaires via une formation de 300 heures de DataScientest certifiée par l’Ecole des Mines Paris - PSL, qui m'a amené à mettre en oeuvre différents projets de data analyse. En quête d’un nouveau challenge et m’adaptant facilement à tous secteurs d’activité,  j’envisage mon avenir en tant que Data Analyst. N'hésitez pas à me contacter pour tout projet professionnel !
 
 
 ## Contact
