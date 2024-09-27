@@ -86,7 +86,7 @@ Doté de 7 ans d’expérience professionnelle comme journaliste, le poste de r�
 
 Mail : [marechal-louis@hotmail.com](mailto:marechal-louis@hotmail.com)
 
-Téléphone : 06 41 97 33 55
+Téléphone : +33 6 41 97 33 55
 
 
 
