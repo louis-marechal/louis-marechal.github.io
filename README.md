@@ -10,7 +10,7 @@ Outils : Google Analytics, Streamlit, GitHub, Plotly, Excel, Canva, Wordpress, Y
 <br />Codage en **Python** d’une application prédisant le salaire net moyen selon des variables socio-économiques (comme la catégorie socio-professionnelle, l'âge, le sexe, la densité de population dans la zone de l'entreprise, le nombre d'entreprises implantées, leur taille etc). Après nettoyage et preprocessing des datasets avec Python (principalement **Pandas**), mise en oeuvre d'un modèle prédictif de **Machine Learning** (régression linéaire) avec **Scikit-learn** - fiabilité de 93% (r2). Déployée sur **Streamlit** via **GitHub**, l'application propose une démo du modèle de prédiction et présente les principales étapes du projet, ainsi qu'une Data Visualization à l'aide d'outils tels que **Plotly** ou **Seaborn**. Projet validé par jury dans le cadre de ma formation DataScientest certifiée Mines Paris-PSL. Le modèle peut être utilisé par une entreprise pour optimiser son offre salariale, ou dans le cadre de politiques ciblées.  
 
 
-<br />*Source des données : 4 datasets de l'Insee sur la population française, 8 millions d’entrées X 61 variables*
+*Source des données : 4 datasets de l'Insee sur la population française, 8 millions d’entrées X 61 variables*
 
 
 <p align="center">
