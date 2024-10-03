@@ -44,7 +44,7 @@
 
 ![Cartes du salaire et de la population](graph2.png)
 
-##🎓 Formation
+## 🎓 Formation
 **Mines Paris - PSL / DataScientest | RNCP Data Analyst (_2024_)**
 <br />300 heures dont 80 heures de projet :
 - *Programmation **Python***
