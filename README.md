@@ -1,8 +1,8 @@
 # Data Analyst
 
 ## Compétences : 
-#### <a href="https://www.linkedin.com/in/marechal-louis/details/certifications/" target="_blank">Certifications</a> Mines-Paris PSL / DataScientest : Python, SQL, Power BI, Machine Learning, Scikit-learn, Pandas, Numpy, Seaborn, SciPy, Matplotlib, BeautifulSoup (Web Scraping), Text Mining
-Outils : Google Analytics, Streamlit, GitHub, Plotly, Excel, Canva, Wordpress, Yoast, Search Console (SEO), MetaBusiness, Brevo
+#### <a href="https://www.linkedin.com/in/marechal-louis/details/certifications/" target="_blank">🎓 Certifications</a> Mines-Paris PSL / DataScientest : Python, SQL, Power BI, Machine Learning, Scikit-learn, Pandas, Numpy, Seaborn, SciPy, Matplotlib, BeautifulSoup (Web Scraping), Text Mining
+🛠️ Outils : Google Analytics, Streamlit, GitHub, Plotly, Excel, Canva, Wordpress, Yoast, Search Console (SEO), MetaBusiness, Brevo
 
 ## Projets :
 ### Prédiction du salaire moyen (app) 
@@ -44,7 +44,7 @@ Outils : Google Analytics, Streamlit, GitHub, Plotly, Excel, Canva, Wordpress, Y
 
 ![Cartes du salaire et de la population](graph2.png)
 
-## Formation
+##🎓 Formation
 **Mines Paris - PSL / DataScientest | RNCP Data Analyst (_2024_)**
 <br />300 heures dont 80 heures de projet :
 - *Programmation **Python***
@@ -81,7 +81,18 @@ Outils : Google Analytics, Streamlit, GitHub, Plotly, Excel, Canva, Wordpress, Y
 
 ## A propos de moi
 
-Doté de 7 ans d’expérience professionnelle comme journaliste, le poste de rédacteur en chef digital m’a amené à privilégier une approche basée sur l’analyse des données, avec des résultats probants. Entreprenant une reconversion professionnelle, j'ai acquis les compétences techniques nécéssaires via une formation de 300 heures de DataScientest certifiée par l’Ecole des Mines Paris - PSL, qui m'a amené à mettre en oeuvre différents projets de data analyse. En quête d’un nouveau challenge et m’adaptant facilement à tous secteurs d’activité,  j’envisage mon avenir en tant que Data Analyst. N'hésitez pas à me contacter pour tout projet professionnel !
+💼 Doté de 7 ans d’expérience professionnelle comme journaliste, je me suis tourné vers la Data en 2020 quand, en tant que rédacteur en chef digital d'un média international, j'ai privilégié une approche basée sur l’analyse des données (via Google Analytics), avec des résultats probants pour l'entreprise :
+📊 2 millions de visiteurs uniques / mois
+📈 Augmentation de 92% du nombre d'abonnés YouTube entre 2020 et 2023, pour atteindre 1,15 millions
+
+🔍 Cherchant à approfondir ma technique, j'ai entrepris en 2024 une reconversion comme Data Analyst par une formation DataScientest de 300 heures, dont 80 heures de projet, certifiée par l’Ecole des Mines Paris - PSL. Celle-ci m'a permis d'acquérir des certifications pour les compétences techniques suivantes :
+Python, SQL, Power BI, Machine Learning, Scikit-learn, Pandas, Numpy, Seaborn, SciPy, Matplotlib, BeautifulSoup (Web Scraping), Text Mining.
+
+📚 Dans le cadre de ma formation et en dehors, j'ai travaillé sur plusieurs projets de Data Analyse détaillés ci-dessus.
+
+🧑‍🤝‍🧑 Mon expérience de management d'une rédaction digitale de 20 journalistes me donne en outre une excellente capacité de rédaction et de communication à tous les niveaux de l'entreprise.
+
+🚀 En quête d’un nouveau challenge, je m’adapte facilement à tous secteurs d’activité. N'hésitez pas à me contacter pour tout projet professionnel !
 
 
 ## Contact
