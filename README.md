@@ -21,7 +21,7 @@ Outils : Google Analytics, Streamlit, GitHub, Plotly, Excel, Canva, Wordpress, Y
 ### Business Dashboard / Rapport Power BI
 <a href="https://louis-marechal.github.io/BusinessReport-PowerBI.pdf" target="_blank">Consulter le rapport au format PDF</a>
 <br />
-<br />Création de rapports de visualisation de données sur **PowerBI**. Création de métriques de performance dans le logiciel, mise en place d'un modèle en étoile permettant une analyse approfondie et interactive d'indicatifs financiers et de KPI tels que : perfomance par date, par manager, par employé, par bureau, secteur etc. NB : le fichier ci-dessus est un export PDF mais le fichier .pbix disponible <a href="https://louis-marechal.github.io/BusinessReport.pbix" target="_blank" download>ici</a> permet d'afficher la version interactive du rapport dans Power BI.
+<br />Création de rapports de visualisation de données sur **PowerBI**. Création de métriques de performance dans le logiciel, mise en place d'un modèle en étoile permettant une analyse approfondie et interactive d'indicatifs financiers et de KPI tels que : performance par date, par manager, par employé, par bureau, secteur etc. NB : le fichier ci-dessus est un export PDF mais le fichier .pbix disponible <a href="https://louis-marechal.github.io/BusinessReport.pbix" target="_blank" download>ici</a> permet d'afficher la version interactive du rapport dans Power BI.
 
 *Source des données : données réelles anonymisées d'une entreprise de type Call center vendant des produits marketing, 6 datasets, 100 000 entrées X 32 variables*
 
