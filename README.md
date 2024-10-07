@@ -99,8 +99,6 @@ Python, SQL, Power BI, Machine Learning, Scikit-learn, Pandas, Numpy, Seaborn, S
 
 ✉️ Mail : [marechal-louis@hotmail.com](mailto:marechal-louis@hotmail.com)
 
-📞 Téléphone : +33 6 41 97 33 55
-
 
 
 
