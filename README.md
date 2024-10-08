@@ -81,7 +81,7 @@
 
 ## A propos de moi
 
-💼 Doté de 7 ans d’expérience professionnelle comme journaliste, je me suis tourné vers la Data en 2020 quand, en tant que rédacteur en chef digital d'un média international, j'ai privilégié une approche basée sur l’analyse des données (via Google Analytics), avec des résultats probants pour l'entreprise :
+💼 Doté de 7 ans d’expérience professionnelle dans les médias, je me suis tourné vers la Data en 2020 quand, en tant que rédacteur en chef digital d'un média international, j'ai privilégié une approche basée sur l’analyse des données (via Google Analytics), avec des résultats probants pour l'entreprise :
 📊 2 millions de visiteurs uniques / mois
 📈 Augmentation de 92% du nombre d'abonnés YouTube entre 2020 et 2023, pour atteindre 1,15 millions
 
