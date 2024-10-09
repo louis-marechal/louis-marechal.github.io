@@ -7,7 +7,7 @@
 ## 📌 Projets :
 ### 👨‍💻 Prédiction du salaire moyen (app) 
 <a href="https://france-salaires.streamlit.app/" target="_blank">Consulter l'application france-salaires.streamlit.app</a>  
-<br />Codage en **Python** d’une application prédisant le salaire net moyen selon des variables socio-économiques (comme la catégorie socio-professionnelle, la ville, l'âge, le sexe, la densité de population dans la zone de l'entreprise, le nombre d'entreprises implantées, leur taille etc). Après nettoyage et preprocessing des datasets avec Python (principalement **Pandas**), mise en oeuvre d'un modèle prédictif de **Machine Learning** (régression linéaire) avec **Scikit-learn** - précision de 93% (r2). Déployée sur **Streamlit** via **GitHub**, l'application propose une démo du modèle de prédiction et présente les principales étapes du projet, ainsi qu'une Data Visualization à l'aide d'outils tels que **Plotly** ou **Seaborn**. Projet validé par jury dans le cadre de ma formation DataScientest certifiée Mines Paris-PSL. Le modèle peut être utilisé par une entreprise pour optimiser son offre salariale, ou dans le cadre de politiques ciblées.  
+<br />Codage en **Python** et création d’une application prédisant le salaire net moyen selon des variables socio-économiques (comme la catégorie socio-professionnelle, la ville, l'âge, le sexe, la densité de population dans la zone de l'entreprise, le nombre d'entreprises implantées, leur taille etc). Après nettoyage et preprocessing des datasets avec Python (principalement **Pandas**), mise en oeuvre d'un modèle prédictif de **Machine Learning** (régression linéaire) avec **Scikit-learn** - précision de 93% (r2). Déployée sur **Streamlit** via **GitHub**, l'application propose une démo du modèle de prédiction et présente les principales étapes du projet, ainsi qu'une Data Visualization à l'aide d'outils tels que **Plotly** ou **Seaborn**. Projet validé par jury dans le cadre de ma formation DataScientest certifiée Mines Paris-PSL. Le modèle peut être utilisé par une entreprise pour optimiser son offre salariale, ou dans le cadre de politiques ciblées.  
 
 
 *Source des données : 4 datasets de l'Insee sur la population française, 8 millions d’entrées X 61 variables*
@@ -56,7 +56,7 @@
 
 
 <p align="center">
-  <img src="overview-rapport.png" alt="Overview rapport" />
+  <img src="overview-audit.png" alt="Overview audit" />
 </p>
 
 
@@ -66,7 +66,7 @@
 - *Programmation **Python***
 - *Data Visualization : **Plotly, Matplotlib, Seaborn***
 - *Machine Learning : **Scikit-learn***
-- *Analyse de données*
+- *Analyse de données : Big Data*
 - *Extraction de données : Text Mining, WebScraping*
 - *Business Intelligence : **Power BI***
 - *Big Data : **SQL***
