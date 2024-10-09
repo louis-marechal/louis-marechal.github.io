@@ -48,7 +48,7 @@
 ### 📈 Audit / Benchmark
 <a href="https://louis-marechal.github.io/Audit digital media.pdf" target="_blank">Consulter le rapport anonymisé d'audit - stratégie digitale media</a>
 <br />
-<br />Extrait anonymisé d'un rapport d'analyse de données réalisé pour une entreprise de médias, fournissant des insights sur la meilleure stratégie digitale à adopter pour optimiser les résultats en termes financiers. Audit des performances, benchmark concurrentiel et fixation d'objectifs.
+<br />Extrait anonymisé d'un rapport d'analyse de données réalisé pour une entreprise de médias, fournissant des insights sur la meilleure stratégie digitale à adopter pour optimiser les résultats en termes financiers. Audit des performances orienté métier, benchmark concurrentiel et fixation d'objectifs.
 
 
 *Source des données : données fournies par l'entreprise cliente*
