@@ -45,8 +45,8 @@
 ![Cartes du salaire et de la population](graph2.png)
 
 
-### 📈 Audit / Benchmark media
-<a href="https://louis-marechal.github.io/Audit digital media.pdf" target="_blank">Consulter le rapport anonymisé d'audit digital</a>
+### 📈 Audit / Benchmark
+<a href="https://louis-marechal.github.io/Audit digital media.pdf" target="_blank">Consulter le rapport anonymisé d'audit - stratégie digitale media</a>
 <br />
 <br />Extrait anonymisé d'un rapport d'analyse de données réalisé pour une entreprise de médias, fournissant des insights sur la meilleure stratégie digitale à adopter pour optimiser les résultats en termes financiers. Audit des performances, benchmark concurrentiel et fixation d'objectifs.
 
@@ -80,13 +80,14 @@
 **Université de Namur, BAC+3 Anglais / Néerlandais (_2012_)**
 
 ## 💼 Expérience professionnelle
+
+
+**Audits, benchmark media (_2023-2024_)**
+
+
 **Rédacteur en chef digital @ RT France (_2020-2023_)**
 - *Management de 20 journalistes*
-- *Analyse quotidienne des données via Google Analytics, orientation stratégique par la data*
-<br /> Exemples :
-<br />Identification des pics horaires de fréquentation = augmentation de la publication ciblée
-<br />Classement utilisateurs par zone géographique = développement d’une rubrique Afrique
-<br />Analyse des sources de trafic = intensification activité FB, création de formats innovants sur YT Community
+- *Orientation prise de décision stratégique par la data (real-time et analyses quotidiennes via Google Analytics), fixation KPI, reporting / communication des résultats*
 - ***Résultats***
 <br />2 millions/mois utilisateurs uniques site web en moyenne
 <br />1,15 million abonnés YouTube (+ 92% entre 2020 et 2023)
