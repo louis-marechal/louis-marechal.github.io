@@ -44,6 +44,22 @@
 
 ![Cartes du salaire et de la population](graph2.png)
 
+
+### 📈 Audit / Benchmark media
+<a href="https://louis-marechal.github.io/Audit digital media.pdf" target="_blank">Consulter le rapport anonymisé d'audit digital</a>
+<br />
+<br />Extrait anonymisé d'un rapport d'analyse de données réalisé pour une entreprise de médias, fournissant des insights sur la meilleure stratégie digitale à adopter pour optimiser les résultats en termes financiers. Audit des performances, benchmark concurrentiel et fixation d'objectifs.
+
+
+*Source des données : données fournies par l'entreprise cliente*
+
+
+
+<p align="center">
+  <img src="overview-rapport.png" alt="Overview rapport" />
+</p>
+
+
 ## 🎓 Formation
 **Mines Paris - PSL / DataScientest | RNCP Data Analyst (_2024_)**
 <br />300 heures dont 80 heures de projet :
@@ -98,6 +114,7 @@ Python, SQL, Power BI, Machine Learning, Scikit-learn, Pandas, Numpy, Seaborn, S
 ## Contact
 
 ✉️ Mail : [marechal-louis@hotmail.com](mailto:marechal-louis@hotmail.com)
+<a href="https://louis-marechal.github.io/CV Data Analyst - Louis Marechal.pdf" target="_blank" download>Télécharger mon CV</a>
 
 
 
