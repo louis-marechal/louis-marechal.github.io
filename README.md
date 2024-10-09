@@ -115,7 +115,8 @@ Python, SQL, Power BI, Machine Learning, Scikit-learn, Pandas, Numpy, Seaborn, S
 ## Contact
 
 ✉️ Mail : [marechal-louis@hotmail.com](mailto:marechal-louis@hotmail.com)
-<a href="https://louis-marechal.github.io/CV Data Analyst - Louis Marechal.pdf" target="_blank" download>Télécharger mon CV</a>
+
+***<a href="https://louis-marechal.github.io/CV Data Analyst - Louis Marechal.pdf" target="_blank" download>Télécharger mon CV</a>***
 
 
 
