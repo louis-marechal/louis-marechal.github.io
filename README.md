@@ -60,6 +60,11 @@
 </p>
 
 
+### 📂 Autres projets
+
+Création d'applications avec **PowerApps**, de chatbots permettant l'automatisation de processes avec **Power Automate** et **Copilot** etc...
+
+
 ## 🎓 Formation
 **Mines Paris - PSL / DataScientest | RNCP Data Analyst (_2024_)**
 <br />300 heures dont 80 heures de projet :
