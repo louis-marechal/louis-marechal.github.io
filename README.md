@@ -107,10 +107,10 @@ Création d'applications avec **PowerApps**, automatisation de processes informa
 📊 2 millions de visiteurs uniques / mois
 📈 Augmentation de 92% du nombre d'abonnés YouTube entre 2020 et 2023, pour atteindre 1,15 millions
 
-🔍 Cherchant à approfondir ma technique, j'ai entrepris en 2024 une reconversion comme Data Analyst par une formation DataScientest de 300 heures, dont 80 heures de projet, certifiée par l’Ecole des Mines Paris - PSL. Celle-ci m'a permis d'acquérir des certifications pour les compétences techniques suivantes :
+🔍 Cherchant à approfondir ma technique, j'ai réalisé avec succès en 2024 une formation DataScientest de 300 heures, dont 80 heures de projet, certifiée par l’Ecole des Mines Paris - PSL. J'y ai acquis des certifications pour les compétences techniques suivantes :
 Python, SQL, Power BI, Machine Learning, Scikit-learn, Pandas, Numpy, Seaborn, SciPy, Matplotlib, BeautifulSoup (Web Scraping), Text Mining.
 
-📌 Dans le cadre de ma formation et en dehors, j'ai travaillé sur plusieurs projets de Data Analyse détaillés ci-dessus.
+📌 Dans le cadre de ma formation et en dehors, j'ai travaillé sur plusieurs projets de Data Analyse détaillés ci-dessus, dont le principal a fait l'objet d'une validation par un jury de Data Analysts.
 
 🧑‍🤝‍🧑 Mon expérience de management d'une rédaction digitale de 20 journalistes me donne en outre une excellente capacité de rédaction et de communication à tous les niveaux de l'entreprise.
 
