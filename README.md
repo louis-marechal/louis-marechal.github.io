@@ -2,7 +2,7 @@
 
 ## Compétences : 
 #### <a href="https://www.linkedin.com/in/marechal-louis/details/certifications/" target="_blank">🎓 Certifications</a> Mines-Paris PSL / DataScientest : Python, SQL, Power BI, Machine Learning, Scikit-learn, Pandas, Numpy, Seaborn, SciPy, Matplotlib, BeautifulSoup (Web Scraping), Text Mining
-🛠️ Outils : Google Analytics, Streamlit, GitHub, Plotly, Excel, Canva, Wordpress, Yoast, Search Console (SEO), MetaBusiness, Brevo
+🛠️ Outils : Tableau, Google Analytics, Streamlit, GitHub, Plotly, PowerApps, Power Automate, Copilot, Excel, Canva, Wordpress, Yoast, Search Console (SEO), MetaBusiness, Brevo
 
 ## 📌 Projets :
 ### 👨‍💻 Prédiction du salaire moyen (app) 
