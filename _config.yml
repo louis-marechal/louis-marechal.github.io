@@ -5,4 +5,10 @@ show_downloads: false
 theme: jekyll-theme-minimal
 
 email: marechal-louis@hotmail.com"
-phone: "+33641973355"
+
+# Open Graph metadata
+og:
+  title: "Louis Maréchal - Data Analyst"
+  description: "Retrouvez tous mes projets data"
+  image: "https://louis-marechal.github.io/coverphoto.png"
+  url: "https://louis-marechal.github.io"
