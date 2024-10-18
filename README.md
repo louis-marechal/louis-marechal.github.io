@@ -23,7 +23,7 @@
 <br />
 <br />Création de rapports de visualisation de données sur **PowerBI** sur base de données brutes que j'ai entièrement traitées avec language **SQL** (élimination des doublons, gestions valeurs nulles, restructuration etc). Création de métriques de performance dans le logiciel, mise en place d'un modèle en étoile permettant une analyse approfondie et interactive d'indicatifs financiers et de KPI tels que : performance par date, par manager, par employé, par bureau, secteur etc. NB : le fichier ci-dessus est un export PDF mais le fichier .pbix disponible <a href="https://louis-marechal.github.io/BusinessReport.pbix" target="_blank" download>ici</a> permet d'afficher la version interactive du rapport dans Power BI.
 
-*Source des données : données réelles anonymisées d'une entreprise de type Call center vendant des produits marketing, 6 datasets, 100 000 entrées X 32 variables*
+*Source des données : données non-structurées réelles anonymisées d'une entreprise de type Call center vendant des produits marketing, 6 datasets, 100 000 entrées X 32 variables*
 
 
 
@@ -36,10 +36,10 @@
 
 <a href="https://louis-marechal.github.io/French_industry.pdf" target="_blank">Consulter le rapport French Industry - Analyse comparative des données sur les salaires en France selon les déterminants géographiques et socio-économiques</a>
 <br />
-<br />Projet validant la formation DataScientest certifiée Mines-PSL (300 heures), visant à identifier la distribution catégorielle des salaires en France et à définir les variables impactant le salaire moyen. Nettoyage et traitement de données en utilisant **Python**, **Pandas** et **Numpy**, visualisation de données avec **Matplotlib** et **Seaborn**, création de cartes géographiques de données avec **Plotly**, instanciation de modèles de **Machine Learning** avec **Scikit-learn**, représentation graphique des résultats et analyse des feature importance, réalisation de tests statistiques. Une corrélation a été établie et confirmée par un modèle de régression linéaire (r2 de 93%) entre le salaire moyen et, entre autres : le sexe, l'âge, le nombre d'entreprises implantées dans un territoire, leur taille. En outre, une correspondance quasi-parfaite a été établie entre la cartographie du salaire moyen et celle de la densité de population, les deux variables semblant suivre la même distribution géographique. Ces observations peuvent par exemple être utilisées pour catégoriser la population dans le cadre de politiques publiques ayant trait aux inégalités salariales, etc.
+<br />Projet validant la formation DataScientest certifiée Mines-PSL (300 heures), visant à identifier la distribution catégorielle des salaires en France et à définir les variables impactant le salaire moyen. Nettoyage et traitement de données (élimination des doublons, gestion valeurs nulles et aberrantes, restructuration par élimination et création de colonnes, numérisation et standardisation des valeurs etc) en utilisant **Python**, **Pandas** et **Numpy**, visualisation de données avec **Matplotlib** et **Seaborn**, création de cartes géographiques de données avec **Plotly**, instanciation de modèles de **Machine Learning** avec **Scikit-learn**, représentation graphique des résultats et analyse des feature importance, réalisation de tests statistiques. Une corrélation a été établie et confirmée par un modèle de régression linéaire (r2 de 93%) entre le salaire moyen et, entre autres : le sexe, l'âge, le nombre d'entreprises implantées dans un territoire, leur taille. En outre, une correspondance quasi-parfaite a été établie entre la cartographie du salaire moyen et celle de la densité de population, les deux variables semblant suivre la même distribution géographique. Ces observations peuvent par exemple être utilisées pour catégoriser la population dans le cadre de politiques publiques ayant trait aux inégalités salariales, etc.
 
 
-*Source des données : 4 datasets de l'Insee sur la population française, 8 millions d’entrées X 61 variables*
+*Source des données : 4 datasets non-structurés de l'Insee sur la population française, 8 millions d’entrées X 61 variables*
 
 
 ![Cartes du salaire et de la population](graph2.png)
