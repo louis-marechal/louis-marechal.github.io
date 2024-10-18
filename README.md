@@ -62,7 +62,7 @@
 
 ### 📂 Autres projets
 
-Création d'applications avec **PowerApps**, automatisation de processes informatiques (création de chatbots permettant la gestion d'accès avec **Power Automate** et **Copilot**) etc...
+Réalisation de dashboards avec **Tableau**, création d'applications avec **PowerApps**, automatisation de processes informatiques (création de chatbots permettant la gestion d'accès avec **Power Automate** et **Copilot**) etc...
 
 
 ## 🎓 Formation
