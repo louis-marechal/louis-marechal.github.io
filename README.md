@@ -32,7 +32,7 @@
 </p>
 
 
-### 📑 Rapport d'analyse comparative de donnés sur les salaires
+### 📑 Rapport d'analyse comparative de données sur les salaires
 
 <a href="https://louis-marechal.github.io/French_industry.pdf" target="_blank">Consulter le rapport French Industry - Analyse comparative des données sur les salaires en France selon les déterminants géographiques et socio-économiques</a>
 <br />
