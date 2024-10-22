@@ -87,7 +87,8 @@ Réalisation de dashboards avec **Tableau**, création d'applications avec **Pow
 ## 💼 Expérience professionnelle
 
 
-**Audits, benchmark media (_2023-2024_)**
+**Digital Analyst @ Freelance (_2023-2024_)**
+Rapports d'audit, benchmarking, suivi de KPI spécifiques aux besoins métiers et formulation de recommandations
 
 
 **Rédacteur en chef digital @ RT France (_2020-2023_)**
@@ -103,11 +104,11 @@ Réalisation de dashboards avec **Tableau**, création d'applications avec **Pow
 
 ## A propos de moi
 
-💼 Doté de 7 ans d’expérience professionnelle dans les médias, je me suis tourné vers la Data en 2020 quand, en tant que rédacteur en chef digital d'un média international, j'ai privilégié une approche basée sur l’analyse des données (via Google Analytics), avec des résultats probants pour l'entreprise :
+💼 Doté de 7 ans d’expérience professionnelle dans les médias, je me suis tourné vers la Data en 2020 quand, en tant que rédacteur en chef digital d'un média international, j'ai privilégié une approche basée sur l’analyse des données (via Google Analytics et Power BI), avec des résultats probants pour l'entreprise :
 📊 2 millions de visiteurs uniques / mois
 📈 Augmentation de 92% du nombre d'abonnés YouTube entre 2020 et 2023, pour atteindre 1,15 millions
 
-🔍 Cherchant à approfondir ma technique, j'ai réalisé avec succès en 2024 une formation DataScientest de 300 heures, dont 80 heures de projet, certifiée par l’Ecole des Mines Paris - PSL. J'y ai acquis des certifications pour les compétences techniques suivantes :
+🔍 En 2024, j'ai acquis les certifications techniques grâce à un diplôme de Data Analyst certifié par l’Ecole des Mines Paris - PSL. Au cours de cette formation, j'ai mis en pratique les compétences techniques suivantes :
 Python, SQL, Power BI, Machine Learning, Scikit-learn, Pandas, Numpy, Seaborn, SciPy, Matplotlib, BeautifulSoup (Web Scraping), Text Mining.
 
 📌 Dans le cadre de ma formation et en dehors, j'ai travaillé sur plusieurs projets de Data Analyse détaillés ci-dessus, dont le principal a fait l'objet d'une validation par un jury de Data Analysts.
