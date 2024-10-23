@@ -45,20 +45,6 @@
 ![Cartes du salaire et de la population](graph2.png)
 
 
-### 📈 Audit / Benchmark
-<a href="https://louis-marechal.github.io/Audit digital media.pdf" target="_blank">Consulter le rapport anonymisé d'audit - stratégie digitale media</a>
-<br />
-<br />Extrait anonymisé d'un rapport d'analyse de données réalisé pour une entreprise de médias, fournissant des insights sur la meilleure stratégie digitale à adopter pour optimiser les résultats en termes financiers. Audit des performances orienté métier, benchmark concurrentiel, suivi de KPI et fixation d'objectifs.
-
-
-*Source des données : données fournies par l'entreprise cliente*
-
-
-
-<p align="center">
-  <img src="overview-audit.png" alt="Overview audit" />
-</p>
-
 
 ### 📂 Autres projets
 
