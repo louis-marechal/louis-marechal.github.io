@@ -1,16 +1,16 @@
 # Data Analyst
 
-## Compétences : 
-#### <a href="https://www.linkedin.com/in/marechal-louis/details/certifications/" target="_blank">🎓 Certifications</a> Mines-Paris PSL / DataScientest : Python, SQL, Power BI, Machine Learning, Scikit-learn, Pandas, Numpy, Seaborn, SciPy, Matplotlib, BeautifulSoup (Web Scraping), Text Mining
-🛠️ Outils : Tableau, Google Analytics, Streamlit, GitHub, Plotly, PowerApps, Power Automate, Copilot, Excel, Canva, Wordpress, Yoast, Search Console (SEO), MetaBusiness, Brevo
+## 🛠️ Compétences : 
+#### <a href="https://www.linkedin.com/in/marechal-louis/details/certifications/" target="_blank">🎓 Certifications</a> Mines-Paris PSL / DataScientest : Python, SQL, Power BI, Tableau, Google Looker Studio, Machine Learning, Scikit-learn, Pandas, Numpy, Seaborn, SciPy, Matplotlib, DAX, Power Query, BeautifulSoup (Web Scraping), Text Mining
+🛠️ Outils : Tableau, BigQuery, Google Analytics, Streamlit, GitHub, Plotly, PowerApps, Power Automate, Copilot, Excel, Canva, Wordpress, Google Tag Manager, Yoast, Search Console (SEO), MetaBusiness, Brevo
 
 ## 📌 Projets :
 ### 👨‍💻 Prédiction du salaire moyen (app) 
 <a href="https://france-salaires.streamlit.app/" target="_blank">Consulter l'application france-salaires.streamlit.app</a>  
-<br />Codage en **Python** et création d’une application prédisant le salaire net moyen selon des variables socio-économiques (comme la catégorie socio-professionnelle, la ville, l'âge, le sexe, la densité de population dans la zone de l'entreprise, le nombre d'entreprises implantées, leur taille etc). Préparation des jeux de données : nettoyage, preprocessing avec Python (principalement **Pandas**), mise en oeuvre d'un modèle prédictif de **Machine Learning** (régression linéaire) avec **Scikit-learn** - précision de 93% (r2). Déployée sur **Streamlit** via **GitHub**, l'application propose une démo du modèle de prédiction et présente les principales étapes du projet, ainsi qu'une Data Visualization à l'aide d'outils tels que **Plotly** ou **Seaborn**. Projet validé par jury dans le cadre de ma formation DataScientest certifiée Mines Paris-PSL. Le modèle peut être utilisé par une entreprise pour optimiser son offre salariale, ou dans le cadre de politiques ciblées.  
+<br />Codage en **Python** et création d’une application prédisant le salaire net moyen selon des variables socio-économiques (comme la catégorie socio-professionnelle, la ville, l'âge, le sexe, la densité de population dans la zone de l'entreprise, le nombre d'entreprises implantées, leur taille etc) afin d'aider une entreprise à optimiser son offre salariale. Collecte et création / structuration des jeux de données : nettoyage, preprocessing avec Python (principalement **Pandas**), mise en oeuvre d'un modèle prédictif de **Machine Learning** (régression linéaire) avec **Scikit-learn** - précision de 93% (r2). Déployée sur **Streamlit** via **GitHub**, l'application propose une démo du modèle de prédiction et présente les principales étapes du projet, ainsi qu'une Data Visualization à l'aide d'outils tels que **Plotly** ou **Seaborn**. Projet validé par jury dans le cadre de ma formation DataScientest certifiée Mines Paris-PSL.
 
 
-*Source des données : 4 datasets non-structurés de l'Insee sur la population française, 8 millions d’entrées X 61 variables; que j'ai entièrement préparés, nettoyés,préprocessés, restructurés etc*
+*Source des données : 4 datasets non-structurés de l'Insee sur la population française, 8 millions d’entrées X 61 variables; que j'ai entièrement préparés, nettoyés, préprocessés, restructurés etc*
 
 
 <p align="center">
@@ -21,7 +21,7 @@
 ### 📊 Business Dashboard / Rapport Power BI
 <a href="https://louis-marechal.github.io/BusinessReport-PowerBI.pdf" target="_blank">Consulter le rapport au format PDF</a>
 <br />
-<br />Création de rapports de visualisation de données sur **PowerBI** sur base de données brutes que j'ai entièrement préparées et traitées avec **SQL** et **PowerQuery** (sélection des données, élimination des doublons, gestions valeurs nulles, restructuration etc). Création de métriques de performance dans le logiciel, mise en place d'un modèle en étoile permettant une analyse approfondie et interactive d'indicatifs financiers et de KPI tels que : performance par date, par manager, par employé, par bureau, secteur etc. NB : le fichier ci-dessus est un export PDF mais le fichier .pbix disponible <a href="https://louis-marechal.github.io/BusinessReport.pbix" target="_blank" download>ici</a> permet d'afficher la version interactive du rapport dans Power BI.
+<br />Exemple d'un rapport interactif de performance à destination de la direction régionale d'un call center. Création de rapports de visualisation de données sur **PowerBI** sur base de données brutes que j'ai entièrement préparées et traitées avec **SQL** et **PowerQuery** (sélection des données, élimination des doublons, gestions valeurs nulles, restructuration etc). Création de métriques de performance dans le logiciel, mise en place d'un modèle en étoile permettant une analyse approfondie et interactive d'indicatifs financiers et de KPI tels que : performance par date, par manager, par employé, par bureau, secteur etc. NB : le fichier ci-dessus est un export PDF mais le fichier .pbix disponible <a href="https://louis-marechal.github.io/BusinessReport.pbix" target="_blank" download>ici</a> permet d'afficher la version interactive du rapport dans Power BI.
 
 *Source des données : données non-structurées réelles anonymisées d'une entreprise de type Call center vendant des produits marketing, 6 datasets, 100 000 entrées X 32 variables*
 
@@ -46,9 +46,6 @@
 
 
 
-### 📂 Autres projets
-
-Réalisation de dashboards avec **Tableau**, création d'applications avec **PowerApps**, automatisation de processes informatiques (création de chatbots permettant la gestion d'accès avec **Power Automate** et **Copilot**) etc...
 
 
 ## 🎓 Formation
@@ -64,7 +61,7 @@ Réalisation de dashboards avec **Tableau**, création d'applications avec **Pow
 <br />
 
 
-**Senza, Formation Webmarketing, SEO, Social Media (_2023_)**
+**Senza, Formation Webmarketing, SEO, Social Media (_2024_)**
 
 **Université de Louvain, BAC+5 Sciences politiques (_2015_)**			        		
 
@@ -77,12 +74,15 @@ Réalisation de dashboards avec **Tableau**, création d'applications avec **Pow
 Rapports d'audit, benchmarking, suivi de KPI spécifiques aux besoins métiers et formulation de recommandations
 
 
-**Rédacteur en chef digital @ RT France (_2020-2023_)**
+**Rédacteur en chef digital / Data Analyst @ RT France (_2020-2023_)**
 - *Management de 20 journalistes*
-- *Orientation prise de décision stratégique par la data (real-time et analyses quotidiennes via Google Analytics), fixation KPI, reporting / communication des résultats*
+- *Définition de KPIs selon objectifs*
+- *Collecte et structuration de la Data (avec Power BI, SQL, Python) depuis Google Analytics, Facebook, YouTube...*
+- *Visualisation par tableaux de bord pour identifier les leviers de conversion*
+- *Reporting/Communication des résultats (équipes direction, marketing...) et formulation de recommandations stratégiques*
 - ***Résultats***
-<br />2 millions/mois utilisateurs uniques site web en moyenne
-<br />1,15 million abonnés YouTube (+ 92% entre 2020 et 2023)
+<br />92% croissance YouTube (en nombre d'abonnés entre 2020 et 2023, passant de 600k à 1,15 millions ; doublement du CPM
+<br />Amélioration ROAS et taux de conversion
 
 
 **Chef d'édition web, Rédacteur @ RT France (_2015-2020_)**
@@ -90,16 +90,14 @@ Rapports d'audit, benchmarking, suivi de KPI spécifiques aux besoins métiers e
 
 ## A propos de moi
 
-💼 Doté de 7 ans d’expérience professionnelle dans les médias, je me suis tourné vers la Data en 2020 quand, en tant que rédacteur en chef digital d'un média international, j'ai privilégié une approche basée sur l’analyse des données (via Google Analytics et Power BI), avec des résultats probants pour l'entreprise :
+💼 Doté de 7 ans d’expérience professionnelle dans les médias, je me suis tourné vers la Data en 2020 quand, en tant que rédacteur en chef digital d'un média international, j'ai privilégié une approche basée sur l’analyse des données dans un objectif d'acquisition d'audience digitale. Ma méthode (collecter la Data sur mesure; identifier les KPIs; nettoyer et structurer / modéliser la donnée; visualiser et reporter par le biais de dashboards adaptés) a généré des résultats probants pour l'entreprise, dont :
 📊 2 millions de visiteurs uniques / mois
-📈 Augmentation de 92% du nombre d'abonnés YouTube entre 2020 et 2023, pour atteindre 1,15 millions
+📈 Augmentation de 92% du nombre d'abonnés YouTube entre 2020 et 2023, pour atteindre 1,15 millions, doublement du CPM, amélioration du ROAS et du taux de conversion.
 
-🔍 En 2024, j'ai acquis les certifications techniques grâce à un diplôme de Data Analyst certifié par l’Ecole des Mines Paris - PSL. Au cours de cette formation, j'ai mis en pratique les compétences techniques suivantes :
+🔍 En 2024, j'ai fait certifier mes compétences techniques grâce à un diplôme de Data Analyst de l’Ecole des Mines Paris - PSL, dont entre autres :
 Python, SQL, Power BI, Machine Learning, Scikit-learn, Pandas, Numpy, Seaborn, SciPy, Matplotlib, BeautifulSoup (Web Scraping), Text Mining.
 
-📌 Dans le cadre de ma formation et en dehors, j'ai travaillé sur plusieurs projets de Data Analyse détaillés ci-dessus, dont le principal a fait l'objet d'une validation par un jury de Data Analysts.
-
-🧑‍🤝‍🧑 Mon expérience de management d'une rédaction digitale de 20 journalistes me donne en outre une excellente capacité de rédaction et de communication à tous les niveaux de l'entreprise.
+🧑‍🤝‍🧑 Mon expérience de management d'une rédaction digitale de 20 journalistes me donne en outre une excellente capacité de rédaction et de communication à tous les niveaux de l'entreprise : une qualité sine qua non pour tout Data Analyst qui se respecte !
 
 🚀 En quête d’un nouveau challenge, je m’adapte facilement à tous secteurs d’activité. N'hésitez pas à me contacter pour tout projet professionnel !
 
@@ -108,7 +106,7 @@ Python, SQL, Power BI, Machine Learning, Scikit-learn, Pandas, Numpy, Seaborn, S
 
 ✉️ Mail : [marechal-louis@hotmail.com](mailto:marechal-louis@hotmail.com)
 
-***<a href="https://louis-marechal.github.io/CV Data Analyst - Louis Marechal.pdf" target="_blank" download>Télécharger mon CV</a>***
+***<a href="https://louis-marechal.github.io/CV Louis Marechal Data Analyst.pdf" target="_blank" download>Télécharger mon CV</a>***
 
 
 
