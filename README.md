@@ -99,12 +99,6 @@ Python, SQL, Power BI, Machine Learning, Scikit-learn, Pandas, Numpy, Seaborn, S
 
 🧑‍🤝‍🧑 Mon expérience de management d'une rédaction digitale de 20 journalistes me donne en outre une excellente capacité de rédaction et de communication à tous les niveaux de l'entreprise : une qualité sine qua non pour tout Data Analyst qui se respecte !
 
-🚀 En quête d’un nouveau challenge, je m’adapte facilement à tous secteurs d’activité. N'hésitez pas à me contacter pour tout projet professionnel !
-
-
-## Contact
-
-✉️ Mail : [marechal-louis@hotmail.com](mailto:marechal-louis@hotmail.com)
 
 ***<a href="https://louis-marechal.github.io/CV Louis Marechal Data Analyst.pdf" target="_blank" download>Télécharger mon CV</a>***
 
